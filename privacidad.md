@@ -5,6 +5,7 @@
 Cotizá es una app para Android que arma presupuestos estimados de obra y refacción en la Ciudad de Buenos Aires y el conurbano. Esta política cuenta qué datos tuyos guardamos, para qué, con quién los compartimos y cómo los borrás.
 
 **Responsable de los datos:** Benjamín Medina, Argentina.
+**Domicilio:** Concordia 32, Ezeiza, CP 1804.
 **Contacto:** cotizaarg@gmail.com
 
 Cotizá es para personas de 18 años o más.
@@ -46,7 +47,7 @@ No vendemos tus datos ni los usamos para publicidad. Para funcionar, la app usa 
 | **Google** (inicio de sesión con Google y Google Play) | Lo necesario para iniciar sesión y para cobrar y verificar tus compras. | Estados Unidos y otros países |
 | **OpenStreetMap Foundation** (el mapa y el buscador de direcciones) | La dirección IP de tu teléfono, la parte del mapa que mirás y las direcciones que buscás. No recibe tu cuenta ni tus pedidos. | Varios países |
 
-Algunos de estos servicios están fuera de la Argentina, así que tus datos se transfieren a esos países para prestarte el servicio. Al usar Cotizá aceptás esa transferencia.
+Algunos de estos servicios están fuera de la Argentina, así que tus datos se transfieren a esos países para prestarte el servicio. Brasil y Estados Unidos no figuran en la lista de países con protección adecuada de la AAIP. Por eso te pedimos tu consentimiento expreso para esta transferencia con la casilla que tildás al entrar por primera vez.
 
 Las fotos y el texto de un pedido los tiene que ver el modelo de inteligencia artificial para armar el presupuesto. No adjuntes fotos ni escribas datos de otras personas que no quieras compartir.
 
@@ -74,12 +75,12 @@ Borrar la cuenta **no cancela una suscripción activa**: cancelala antes desde G
 Según la Ley 25.326 de Protección de Datos Personales, podés:
 
 - **Acceder** a tus datos: en la app, **Ajustes → Exportar mis datos** te da tu perfil y todos tus presupuestos en un archivo.
-- **Corregirlos:** desde Perfil y Mis datos.
+- **Corregirlos o actualizarlos:** desde Perfil y Mis datos.
 - **Borrarlos:** como dice la sección 4.
 
-Para cualquiera de estos pedidos también podés escribirnos a cotizaarg@gmail.com. El acceso a tus datos es gratuito, a intervalos no menores a seis meses salvo que acredites un interés legítimo.
+Para cualquiera de estos pedidos también podés escribirnos a cotizaarg@gmail.com. Te respondemos un pedido de acceso en un máximo de 10 días corridos (art. 14) y una corrección, actualización o borrado en un máximo de 5 días hábiles (art. 16). El acceso a tus datos es gratuito, a intervalos no menores a seis meses salvo que acredites un interés legítimo.
 
-La Agencia de Acceso a la Información Pública, órgano de control de la Ley 25.326, atiende las denuncias y reclamos de quienes resulten afectados en sus derechos por incumplimiento de las normas sobre protección de datos personales.
+La AGENCIA DE ACCESO A LA INFORMACIÓN PÚBLICA, en su carácter de Órgano de Control de la Ley N° 25.326, tiene la atribución de atender las denuncias y reclamos que interpongan quienes resulten afectados en sus derechos por incumplimiento de las normas vigentes en materia de protección de datos personales.
 
 ## 6. Seguridad
 
