@@ -16,7 +16,7 @@ Guardamos solo lo que hace falta para que la app funcione.
 
 | Dato | De dónde sale | Para qué |
 |---|---|---|
-| **Cuenta:** tu mail. Si entrás con Google, también el nombre y el identificador de tu cuenta de Google. | Lo das al iniciar sesión. | Identificarte y que tus presupuestos sean solo tuyos. |
+| **Cuenta:** tu mail. Si entrás con Google, también el nombre, el identificador de tu cuenta de Google y la dirección (URL) de tu foto de perfil de Google; la app no muestra ni usa esa foto. | Lo das al iniciar sesión. | Identificarte y que tus presupuestos sean solo tuyos. |
 | **Perfil:** si sos cliente o profesional y tu nombre. Si sos profesional y los cargás: razón social, CUIT o matrícula, teléfono, mail de contacto, oficios, si hacés factura, condiciones comerciales y logo. | Lo cargás vos; todo lo del profesional es opcional. | Armar el presupuesto con tus datos y tu logo. |
 | **Zonas:** la zona de trabajo y, si sos profesional, la zona donde comprás. | Las elegís en el mapa. | Buscar precios de esa zona. |
 | **Pedidos:** el texto que le escribís al asistente, las fotos que adjuntás (hasta 4 por pedido), la zona elegida y tus respuestas a las preguntas del asistente. | Lo escribís y adjuntás vos. | Armar el presupuesto. |
