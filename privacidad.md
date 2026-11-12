@@ -4,8 +4,8 @@
 
 Cotizá es una app para Android que arma presupuestos estimados de obra y refacción en la Ciudad de Buenos Aires y el conurbano. Esta política cuenta qué datos tuyos guardamos, para qué, con quién los compartimos y cómo los borrás.
 
-**Responsable de los datos:** Benjamín Medina, Argentina.
-**Domicilio:** Concordia 32, Ezeiza, CP 1804.
+**Responsable de los datos:** Benjamín Medina, Argentina.<br>
+**Domicilio:** Concordia 32, Ezeiza, CP 1804.<br>
 **Contacto:** cotizaarg@gmail.com
 
 Cotizá es para personas de 18 años o más.
